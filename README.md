@@ -1,4 +1,4 @@
 # Hotel-booking-project
 data analysis project
-<b>
+<br>
 analysis on hotel booking cancellation and other factors.
